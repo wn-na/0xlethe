@@ -8,9 +8,10 @@
   * Spring         
   * Node.js        
   * C++            
-  * Python         
+  * Python      
   
 ### 🌱 Learning
 ---
   * C# with Windows Programing
   * Unity
+  * react, typescript
