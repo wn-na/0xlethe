@@ -12,7 +12,7 @@
   
 ### 🌱 Learning
 ---
-  * react, typescript, react-native
+  * react, typescript, react-native, docker, mongoDB
 
 ### Will
 ---
