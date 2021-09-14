@@ -1,24 +1,31 @@
-✨ lethekawa
----
-### 💬 Service Programmer
----
-### 🔭 Stack
----
-  * Java           
-  * Spring         
-  * Node.js        
-  * C++            
-  * Python      
-  
-### 🌱 Learning
----
-  * react, typescript, react-native, docker, mongoDB
-
-### Will
----
-  * Flutter
-  * electron
-  * go
-  * Next.js
-  * C# with Windows Programing
-  * Unity
+```js
+{
+  "people": {
+    "whoami": "Service Programmer",
+    "whatido": "i'm make service with customer need as stable as possible",
+    "whatitry": "i'm try modern tech, refactoring code as read easy",
+  },
+  "stack": [
+    "Java",
+    "Node.js",
+    "C++",
+    "Python",
+    "Spring",
+    "DB",
+  ],
+  "interesting": [
+    "electron",
+    "go",
+    "Unity",
+    "Unreal",
+    "docker",
+    "kubernetes",
+    "cloud server",
+    "microservice",
+  ],
+  "blog": "https://velog.io/@lethe",
+  "connect": [
+    "lethekawa@gmail.com",
+  ],
+}
+```
