@@ -1,4 +1,4 @@
-```js
+```json
 {
   "people": {
     "whoami": "Service Programmer",
@@ -12,6 +12,7 @@
     "Python",
     "Spring",
     "DB",
+    "React-native"
   ],
   "interesting": [
     "electron",
@@ -25,9 +26,11 @@
   ],
   "blog": "https://velog.io/@lethe",
   "connect": [
-    "lethekawa@gmail.com",
+    "lecheln00@gmail.com",
   ],
 }
 ```
+---------------------
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=0xlethe&show_icons=true&count_private=true)
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=0xlethe&layout=compact)
+---------------------
