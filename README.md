@@ -1,6 +1,6 @@
 # Hello, I'm `0xlethe`
 
-> I'm Service Programmer, to make service with customer need as stable as possible<br>I believe purposeful and simple code make better cooperation 
+> I'm Service Programmer, to make services as stable as possible<br>Personally, purposeful & simple code make improve cooperation 
 
 - 📍 I'm currently working on `fanding` as App developer w/ React Native
 - 📫 lecheln00@gmail.com
