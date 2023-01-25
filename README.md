@@ -4,6 +4,7 @@
 
 - 📍 I'm currently working on `fanding` as App developer w/ React Native
 - 📫 lecheln00@gmail.com
+- 🔗 [Medium](https://medium.com/@0xlethe)
 
 ----
 # 📈 Github stat
