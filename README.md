@@ -2,7 +2,6 @@
 
 > I'm Service Programmer, to make services as stable as possible<br>Personally, purposeful & simple code make improve cooperation 
 
-- 📍 I'm currently working on `fanding` as App developer w/ React Native
 - 📫 lecheln00@gmail.com
 - 🔗 [Medium](https://medium.com/@0xlethe)
 
